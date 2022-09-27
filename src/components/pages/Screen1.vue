@@ -30,7 +30,7 @@
           <NucGroupElement top="7.498620309050772%" left="54.32333727688905%" v-bind:snapX="false" v-bind:snapY="false"
             bgColor="" position="absolute" borderWidth="0px" ncTooltipText="" id="3aabd4d2-1082-4807-9fc1-9a48dbce41f1"
             v-bind:style="{'color':'#FFFFFF','width':'552px','height':'185px','zIndex':8,'fontSize':'15px','maxWidth':'','minWidth':'10','tabIndex':'-1','boxShadow':'0 0 20px 2px rgba(0,0,0,0.5), inset 0 0 0 0 rgba(0,0,0,0.5)','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'10','textAlign':'center','background':'#FFFFFF','fontFamily':'Roboto-Regular,Roboto','fontWeight':'normal','lineHeight':'1.25','marginLeft':'0px','paddingTop':'','textShadow':'','visibility':'visible','borderColor':'#767676','borderStyle':'solid','marginRight':'0px','paddingLeft':'','marginBottom':'0px','paddingRight':'','paddingBottom':'','borderTopWidth':'0px','textDecoration':'none','borderLeftWidth':'0px','borderRightWidth':'0px','borderBottomWidth':'0px','borderTopLeftRadius':'0px','borderTopRightRadius':'0px','borderBottomLeftRadius':'0px','borderBottomRightRadius':'0px'}">
-            <WLabel top="32.69986063600659%" left="14.763077445652174%" text="O​nline Courses" v-bind:snapX="false"
+            <WLabel top="32.69986063600659%" left="14.763077445652174%" text="O​nline Courses2" v-bind:snapX="false"
               v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
               v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
               id="69f04636-9ded-4056-98d1-10c426f72e00"
